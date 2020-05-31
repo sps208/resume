@@ -2,3 +2,7 @@
     background-color: #00a6e5;
     background-size: 100vh;
 }
+
+html {
+    scroll-behavior: smooth;
+  }
