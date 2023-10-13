@@ -5,6 +5,7 @@
     background-repeat: no-repeat;
     background-image: url('../Asset/FotoProfile.jpg');
     padding-bottom: 10px;
+    height: 620px;
 }
 
 .three-icon  a {

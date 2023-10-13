@@ -12,7 +12,7 @@ render() {
         <br/>
         <p>
             <span><h4><b>Satrio</b></h4></span>
-            <small>Ee street No. 25, North Sukabumi, Kebon jeruk, West Jakarta 11540</small>
+            <small>Belibis Terusan street, Palmerah,  West Jakarta 11480</small>
             <br/>
             <small>satriops20@gmail.com</small>
             <br/>

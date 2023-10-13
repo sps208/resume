@@ -14,7 +14,7 @@ class About extends Component {
           <div className="col-sm intro" >
             <div>
               <h1 className="display-4 first"> <span> &nbsp;Hi, i'm &nbsp;</span></h1>
-              <h1 className="display-4 second">SATRIO PRAWIRO !</h1>
+              <h1 className="display-4 second">SATRIO PRAWIRO S!</h1>
               <i className="fas fa-minus icon-minus second"></i>
             </div>
             <div className="three-icon second">
@@ -30,7 +30,7 @@ class About extends Component {
               About Me
             </h2>
             <p>
-              Born on 21 April 1998, Jakarta, Indonesia. Daring to learn something new with high dedication, very active and easy going person to interact and communicate with, high competitive spirit. And I like to play basketball, soccer, and photograph as a hobby.
+              Born on 21 April 1998, Jakarta, Indonesia. Daring to learn something new with high dedication, very active and easy going person to interact and communicate with, high competitive spirit. And I like to play basketball, soccer, and brew a coffee as a hobby.
             </p>
           </div>
         </div>

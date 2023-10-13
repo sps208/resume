@@ -10,7 +10,10 @@ class Education extends Component {
             <div className="mb-5 p-4 shadow-sm">
         <h3 className="stepperAnimation">My Education</h3>
         <div id="stepper4" className="bs-stepper vertical linear stepperAnimation">
+        
           <div className="bs-stepper-header">
+          
+          
             <div className="step" >
                 <span className="bs-stepper-circle"><i class="fas fa-graduation-cap"></i></span>
                 
@@ -29,6 +32,13 @@ class Education extends Component {
                
             
             </div>
+            <div className="bs-stepper-line"></div>
+            <div className="step" data-target="#test-vl-3">
+              
+                <span className="bs-stepper-circle"><i class="fas fa-graduation-cap"></i></span>
+               
+            
+            </div>
           </div>
           <div className="bs-stepper-content stepperAnimation">
             <p><br></br></p>
@@ -37,19 +47,25 @@ class Education extends Component {
             <p><small>Periode : 2013 - 2016</small></p>
             <p><br></br></p>
             <p><br></br></p>
-           
+            <p><br></br></p>
+            
             
             <h5> Bina Nusantara University</h5>
             <p><small>Periode : 2016 - 2020</small></p>
             <p><small>Bachelor degree GPA : 3.28 </small></p>
-            <p><small>Periode : 2020 - present</small></p>
-            <p><small>Master degree GPA : - </small></p>
+            <p><br></br></p>
             <p><br></br></p>
             
 
             <h5> Purwadhika Coding School</h5>
-            <p><small>Periode : 2020 - present</small></p>
+            <p><small>Periode : 2020 - 2021</small></p>
             <p><small>Minor : Web and Mobile Apps Development</small></p>
+            <p><br></br></p>
+            <p><br></br></p>
+
+            <h5> Analitik Data Google Specialization</h5>
+            <p><small>Periode : 2022</small></p>
+
           </div>
         </div>
       </div>
@@ -91,7 +107,7 @@ class Education extends Component {
             <h5>Freelancer Photographer</h5>
             <p><small>Periode : 2016 - 2018</small></p>
             <p><small>Photograph & photo edit</small></p>
-            <p><br></br></p>
+
             <p><br></br></p>
 
             <h5>Activist at Binus Basketball </h5>
@@ -107,7 +123,6 @@ class Education extends Component {
             <h5> Enrichment Program</h5>
             <p><small>Periode : 2018 - 2019</small></p>
             <p><small>Buddy Coordinator</small></p>
-            <p><br></br></p>
             <p><br></br></p>
 
 
