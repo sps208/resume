@@ -38,7 +38,7 @@ class About extends Component {
                   Born on 21 April 1998, Jakarta, Indonesia. Daring to learn something new with high dedication, very active and easy going person to interact and communicate with, high competitive spirit. And I like to play basketball, soccer, and brew a coffee as a hobby.
                 </p>
                 <row>
-                  <h1>&nbsp; &nbsp;</h1>
+                  <h1>&nbsp;</h1>
                 </row>
               </row>
               <row className="buttonS">
