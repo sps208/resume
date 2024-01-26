@@ -17,6 +17,7 @@
     margin-bottom: 0%; 
 }
 
+
 .bs-stepper {
     display: inline-flex;
     flex-wrap: wrap;
@@ -30,7 +31,7 @@
     text-align: center;
     text-decoration: none;
     white-space: nowrap;
-    vertical-align: middle;
+    vertical-align: top;
     user-select: none;
     background-color: transparent;
     border: none;
@@ -70,9 +71,58 @@
     margin: auto;
     background-color: #fff;
   }
+
+  .bs-stepper-lineX1 {
+    flex: 1 0 70px;
+    min-width: 3px;
+    min-height: 1px;
+    margin: auto;
+    background-color: #fff;
+  }
+
+  .bs-stepper-lineX2 {
+    flex: 1 0 130px;
+    min-width: 3px;
+    min-height: 1px;
+    margin: auto;
+    background-color: #fff;
+  }
+
+  .bs-stepper-lineX3 {
+    flex: 1 0 100px;
+    min-width: 3px;
+    min-height: 1px;
+    margin: auto;
+    background-color: #fff;
+  }
+
+  .bs-stepper-lineX4 {
+    flex: 1 0 100px;
+    min-width: 3px;
+    min-height: 1px;
+    margin: auto;
+    background-color: #fff;
+  }
+
+  .bs-stepper-lineX5 {
+    flex: 1 0 50px;
+    min-width: 3px;
+    min-height: 1px;
+    margin: auto;
+    background-color: #fff;
+  }
+
+  .bs-stepper-lineL {
+    flex: 1 0 10px;
+    min-width: 3px;
+    min-height: 1px;
+    margin: auto;
+    background-color: #fff;
+  }
+
   .bs-stepper-line,
   .bs-stepper .line {
-    flex: 1 0 170px;
+    flex: 1 0 100px;
     min-width: 3px;
     min-height: 1px;
     margin: auto;
@@ -90,9 +140,9 @@
     display: inline-flex;
     align-content: center;
     justify-content: center;
-    width: 4.5em;
-    height: 4.5em;
-    padding: .75em ;
+    width: 7em;
+    height: 7em;
+    padding: 1.25em ;
     
     line-height: 1.75em;
     color: #00a6e5;

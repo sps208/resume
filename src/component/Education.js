@@ -39,6 +39,7 @@ class Education extends Component {
                
             
             </div>
+            <div className="bs-stepper-lineL"></div>
           </div>
           <div className="bs-stepper-content stepperAnimation">
             <p><br></br></p>
@@ -80,27 +81,35 @@ class Education extends Component {
                 <span className="bs-stepper-circle"><i class="fas fa-tachometer-alt"></i></span>
                 
             </div>
-            <div className="bs-stepper-line2"></div>
+            <div className="bs-stepper-lineX1"></div>
             <div className="step">
               
                 <span className="bs-stepper-circle"><i class="fas fa-tachometer-alt"></i></span>
                 
               
             </div>
-            <div className="bs-stepper-line2"></div>
+            <div className="bs-stepper-lineX2"></div>
             <div className="step">
               
                 <span className="bs-stepper-circle"><i class="fas fa-tachometer-alt"></i></span>
                 
               
             </div>
-            <div className="bs-stepper-line2"></div>
-            <div className="step" data-target="#test-vl-3">
+            <div className="bs-stepper-lineX3"></div>
+            <div className="step">
               
                 <span className="bs-stepper-circle"><i class="fas fa-tachometer-alt"></i></span>
                
             
             </div>
+            <div className="bs-stepper-lineX4"></div>
+            <div className="step">
+              
+                <span className="bs-stepper-circle"><i class="fas fa-tachometer-alt"></i></span>
+               
+            
+            </div>
+            <div className="bs-stepper-lineX5"></div>
           </div>
           <div className="bs-stepper-content stepperAnimation">
             <p><br></br></p>
@@ -129,8 +138,14 @@ class Education extends Component {
             <h5>Internship at PT. QPRO</h5>
             <h5>Sukses Mandiri</h5>
             <p><small>Periode : 2019</small></p>
+            <p><small>Software Developer</small></p>
+            <p><br></br></p>
+
+
+            <h5>Full Time at PT. Blend</h5>
+            <h5>Media Kreasi</h5>
+            <p><small>Periode : 2023 - 2024</small></p>
             <p><small>Full-stack Web Developer</small></p>
-            
 
           </div>
         </div>

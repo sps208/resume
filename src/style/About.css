@@ -47,6 +47,21 @@ span {
     color: white;
 }
 
+.name {
+    font-size : 60px;
+}
+
+.CVbutton {
+    background-color: #00a6e5;
+    border-color: #ffffff;
+    border-radius: 10px;
+    margin-right: 50px;
+    font-size: medium;
+    color: #ffffff;
+    padding: 5px;
+}
+
+
 /* @media screen and (max-width: 999px) {
     .Header, .intro, .aboutDesc {
       width: 100%;

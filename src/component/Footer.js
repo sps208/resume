@@ -11,7 +11,7 @@ render() {
         <hr/>
         <br/>
         <p>
-            <span><h4><b>Satrio</b></h4></span>
+            <span><h4><b>Resume Satrio</b></h4></span>
             <small>Belibis Terusan street, Palmerah,  West Jakarta 11480</small>
             <br/>
             <small>satriops20@gmail.com</small>
@@ -24,7 +24,7 @@ render() {
             <i className="fas fa-envelope"></i>
         </p>
        <p>
-         <small> Copyright &copy; 2020 Satrio Prawiro</small>
+         <small> Copyright &copy; Satrio Prawiro</small>
        </p>
     </div>           
 </div>
