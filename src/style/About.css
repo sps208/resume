@@ -65,7 +65,7 @@ span {
     font-size: 24px;
 }
 
-@media screen and (max-width: 790px) {
+@media screen and (max-width: 990px) {
     .Header, .intro, .aboutDesc {
       width: 100%;
     }
@@ -98,3 +98,5 @@ span {
     }
 
   }
+
+  
