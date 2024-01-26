@@ -19,8 +19,6 @@ class Skill extends Component {
                         
                         <i class="fab fa-react"></i>
                         
-                        <br/>
-
                         <i class="fas fa-database"></i>
                         
                         <i class="fab fa-adobe"></i>

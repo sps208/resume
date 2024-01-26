@@ -17,7 +17,7 @@ class About extends Component {
           <div className="row">
             <div className="col-sm intro" >
               <div>
-                <h1 className="display-4 first"> <span> &nbsp;Hi, i'm &nbsp;</span></h1>
+                <h1 className="display-4 first"> <span className="im"> &nbsp;Hi, i'm &nbsp;</span></h1>
                 <h1 className="display-4 second name">SATRIO PRAWIRO S!</h1>
                 <i className="fas fa-minus icon-minus second"></i>
               </div>

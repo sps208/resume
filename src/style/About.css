@@ -61,9 +61,35 @@ span {
     padding: 5px;
 }
 
+.im {
+    font-size: 24px;
+}
 
-/* @media screen and (max-width: 999px) {
+@media screen and (max-width: 790px) {
     .Header, .intro, .aboutDesc {
       width: 100%;
     }
-  } */
+
+    .name {
+        font-size: 30px;
+    }
+
+    .im {
+        font-size: 16px;
+    }
+
+    .CVbutton {
+        background-color: #00a6e5;
+        border-color: #ffffff;
+        border-radius: 10px;
+        margin: 0px;
+        font-size: small;
+        color: #ffffff;
+        padding: 5px;
+    }
+
+    p {
+        font-size: small;
+    }
+
+  }
