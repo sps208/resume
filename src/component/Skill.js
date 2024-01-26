@@ -21,8 +21,6 @@ class Skill extends Component {
                         
                         <i class="fas fa-database"></i>
                         
-                        <i class="fab fa-adobe"></i>
-                        
                         <i class="fas fa-camera"></i>
                         
                     </p>
