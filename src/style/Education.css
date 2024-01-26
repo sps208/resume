@@ -226,3 +226,23 @@
   .vertical .content.fade.dstepper-none {
     visibility: hidden;
   }
+
+  
+
+  @media screen and (max-width: 990px) {
+      .Desktop {
+        display: none;
+      }
+      .bs-stepper-content {
+        text-align: center;
+      }
+  }
+
+  @media screen and (max-width: 795px) {
+    .Desktop {
+      display: none;
+    }
+    .bs-stepper-content {
+      text-align: center;
+    }
+}

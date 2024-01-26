@@ -11,7 +11,7 @@ class Education extends Component {
         <h3 className="stepperAnimation">My Education</h3>
         <div id="stepper4" className="bs-stepper vertical linear stepperAnimation">
         
-          <div className="bs-stepper-header">
+          <div className="bs-stepper-header Desktop">
           
           
             <div className="step" >
@@ -75,8 +75,8 @@ class Education extends Component {
       <div className="container col-sm eduPosition">
         <div className=" mb-5 p-4 shadow-sm">
         <h3 className="stepperAnimation">My Experience</h3>
-        <div id="stepper4" className="bs-stepper vertical linear stepperAnimation">
-          <div className="bs-stepper-header" role="tablist">
+        <div id="stepper4" className="bs-stepper vertical linear stepperAnimation Desktop">
+          <div className="bs-stepper-header Desktop" role="tablist">
             <div className="step" >
                 <span className="bs-stepper-circle"><i class="fas fa-tachometer-alt"></i></span>
                 
